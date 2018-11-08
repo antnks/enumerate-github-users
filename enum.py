@@ -1,3 +1,19 @@
+# enum.py
+# Reads input file lines and creates git commits based on emails read from input
+# When pushed to Github the commit history should show which user is connected to the supplied email
+#
+# Version: 1.0
+# Author: antnks <antnks@users.noreply.github.com>
+# License: public domain
+#
+# Usage: python enum.oy emails.txt
+# Input file is one email per line
+# Example:
+#
+# a@b.com
+# c@d.com
+#
+
 import sys
 import os
 import time
