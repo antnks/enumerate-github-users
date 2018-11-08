@@ -12,3 +12,5 @@ Input file is one email per line. Example:
 a@b.com
 c@d.com
 </pre>
+
+If you wish to push results to Github, ensure to fork this repo. Otherwise you will get access denied during push
