@@ -8,6 +8,7 @@ When pushed to Github the commit history should show which user is connected to 
 
 Usage: python enum.oy emails.txt
 Input file is one email per line. Example:
-
+<pre>
 a@b.com
 c@d.com
+</pre>
