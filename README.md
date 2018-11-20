@@ -1,5 +1,5 @@
 # enumerate-github-users
-A script to create fake commits
+A script to create fake commits, with emails of your choice. GitHub automatically resolves the emails to a GitHub accounts associated with them. This way if you know an email you can find the GitHub account of a user.
 
 enum.py
 
