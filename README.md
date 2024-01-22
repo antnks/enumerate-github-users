@@ -14,4 +14,6 @@ a@b.com
 c@d.com
 </pre>
 
-If you wish to push the results to Github, ensure to fork this repo. Otherwise you will get access denied during the push
+See an example:
+
+https://github.com/antnks/why-gpg-is-important/commits/master/
